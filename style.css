@@ -1,3 +1,4 @@
+
 *{
     box-sizing: border-box;
     padding: 0;
@@ -49,6 +50,7 @@
 }
 body{
     background-image: linear-gradient( 90deg, #13FFA3 , #009AA0 , #00A096);
+    font-family: 'zilla slab',kanit , 'Times New Roman', Times, serif;
 }
 nav{
     display: flex;
